@@ -1,0 +1,187 @@
+.card {
+  color: #fff;
+  padding: 0;
+  margin: 0;
+  width: 18rem;
+  padding: 10px;
+}
+
+.block1 {
+  background-color: #d4e6fb;
+  height: 80px;
+}
+.block1 td {
+  position: relative;
+}
+.block2 {
+  background-color: #4a00e0;
+  height: 40px;
+}
+
+.block3 {
+  background-color: #cdf6ec;
+  height: 80px;
+}
+
+.block4 {
+  background-color: #04d39f;
+  height: 40px;
+}
+
+.block5 {
+  background-color: #ffebcd;
+  height: 80px;
+}
+
+.block6 {
+  background-color: #ff9b05;
+  height: 40px;
+}
+
+.block7 {
+  background-color: #fedee5;
+  height: 80px;
+}
+
+.block8 {
+  background-color: #fa5c7c;
+  height: 40px;
+}
+
+.block9 {
+  background-color: #4a00e0;
+  height: 80px;
+}
+
+.block10 {
+  background-color: #04d39f;
+  height: 80px;
+}
+
+.block11 {
+  background-color: #ff9b05;
+  height: 80px;
+}
+
+.block12 {
+  background-color: #fa5c7c;
+  height: 80px;
+}
+
+.indiaData .table {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.space {
+  height: 50px;
+}
+
+#active td {
+  font-size: xx-large;
+  font-family: "Anton", sans-serif;
+}
+
+#recovered td {
+  font-size: xx-large;
+  font-family: "Anton", sans-serif;
+}
+
+#deaths td {
+  font-size: xx-large;
+  font-family: "Anton", sans-serif;
+}
+
+#confirmed td {
+  font-size: xx-large;
+  font-family: "Anton", sans-serif;
+}
+
+#india1 td {
+  font-size: xx-large;
+  font-family: "Anton", sans-serif;
+}
+
+#india2 td {
+  font-size: xx-large;
+  font-family: "Anton", sans-serif;
+}
+
+#india3 td {
+  font-size: xx-large;
+  font-family: "Anton", sans-serif;
+}
+
+#india4 td {
+  font-size: xx-large;
+  font-family: "Anton", sans-serif;
+}
+
+.box {
+  height: 300px;
+  width: 150px;
+  font-size: 15px;
+  font-stretch: normal;
+  padding: 40px;
+
+  border-radius: 50px;
+  background: #dadada;
+  box-shadow: 20px 20px 60px #b9b9b9, -20px -20px 60px #fbfbfb;
+  transition: 0.5s ease;
+}
+
+.navbar a img {
+  height: 80px;
+  width: 110px;
+  transition: 0.5s ease;
+}
+
+.navbar a img:hover {
+  filter: grayscale(100%);
+}
+
+.box:hover {
+  background: #000;
+  color: #fff;
+}
+
+.box img {
+  height: 110px;
+}
+
+.precautions {
+  padding: 45px;
+  margin: 40px;
+}
+
+.footer {
+  position: relative;
+  width: 100%;
+  min-height: 260px;
+  background: #000000;
+  padding: 10px 0;
+  z-index: 1;
+}
+.footerImg img {
+  height: 100px;
+}
+
+footer {
+  height: 230px;
+  width: 100%;
+  background-color: #000;
+  padding-top: 80px;
+}
+
+.footer-copyright {
+  background-color: #1e1f1e;
+  width: 100%;
+  height: 50px;
+  color: #fff;
+}
+
+.footer-copyright a {
+  text-decoration: none;
+  color: #fff;
+}
